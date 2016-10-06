@@ -1,0 +1,31 @@
+#include <cstdio>
+#include <cstdlib>
+#include <cmath>
+#include <cstring>
+#include <iostream>
+#include <string>
+#include <algorithm>
+#include <vector>
+#include <utility>
+#include <stack>
+#include <queue>
+#include <map>
+#include <set>
+
+#define fi first
+#define se second
+#define pb push_back
+#define mp make_pair
+#define pii pair<int,int> 
+#define pdd pair<double,double>
+#define ll long long
+
+#define PI 2*acos(0.0)
+#define EPS 1e-9
+
+using namespace std;
+
+class
+{
+    public:
+};
